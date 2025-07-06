@@ -15,28 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranita-manne-428489249/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranita-manne-428489249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranita-manne-428489249/" height="30" width="40" /></a>
 
-<div class="container">
-			<br>
-			<br>
-			<div class="row justify-content-center">
-				<div class="col-md-7 ftco-animate text-center">
-					<h2>Have a<span> Question?  </span> <a href="https://docs.google.com/forms/d/1bM40VOSZwVejOteuALEUBrfeCHED1wrkCBCLQfKjrA0/edit" class="btn btn-primary py-3 px-5">Click Here</a> </h2>
-				</div>
-			</div>
-				<br>
-					<ul class="ftco-footer-social list-unstyled d-flex justify-content-center align-items-center mb-0">
-					  <li class="ftco-animate normal-txt">Find me on  </li>
-					  <!-- <li class="ftco-animate"><a href="https://www.youtube.com/@RishabhMishraOfficial"><span class="icon-youtube"></span></a></li> -->
-					  <li class="ftco-animate"><a href="https://www.linkedin.com/in/pranita-manne-428489249/"><span class="icon-linkedin"></span></a></li>  
-					  <!-- <li class="ftco-animate"><a href="https://twitter.com/rishabhnmishra"><span class="icon-twitter"></span></a></li> -->
-					  <!-- <li class="ftco-animate"><a href="https://twitter.com/rishabhnmishra"><span class="icon-facebook"></span></a></li> -->
-				      <!-- <li class="ftco-animate"><a href="https://www.instagram.com/hustling_guy77/"><span class="icon-instagram"></span></a></li> -->
-					</ul>
-				<br>
-		   </div>
-   </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
