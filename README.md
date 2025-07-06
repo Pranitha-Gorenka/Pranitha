@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranitha-Gorenka" alt="Pranitha-Gorenka" /></a> </p>
 
-- 💬 Ask me about **Devops & AWS**
+<!-- 💬 Ask me about **Devops & AWS**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
