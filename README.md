@@ -1,7 +1,7 @@
-# Pranitha
 
 
-[![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
+
+<!--- [![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in) -->
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Pranita</h1>
