@@ -3,7 +3,7 @@
 
 <!--- [![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in) -->
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 <h1 align="center">Hi 👋, I'm Pranita</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
